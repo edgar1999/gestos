@@ -1,0 +1,21 @@
+body{
+	background-color: palegoldenrod;
+	}
+
+body.clarear{
+	background-color: blue;
+	}
+	
+body.oscurecer{
+	background-color: darkblue;
+	}
+	
+button{
+	background-color: #7fba67;
+	color: #ffffff;
+	border: none;
+	width: 100%;
+	padding: 30px;
+	font-size: 4em;
+	margin-top: 10px;
+	}

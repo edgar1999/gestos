@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+        <link rel="stylesheet" href="css/index.css" type="text/css">
+        <title>Gestos</title>
+    </head>
+    <body>
+    	<button>CLARO</button>
+    	<button>OSCURO</button>
+        <script type="text/javascript" src="cordova.js"></script>
+    </body>
+
+</html>
